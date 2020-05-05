@@ -1,5 +1,17 @@
 class Factorial
 {
+    /*
+Let's take 10!=10x to get the value of x.
+
+Take log both sides log(10)!=xlog10
+
+log(10*9*8*..*1)=x
+
+log10+log9+log8+...+log1=x
+
+Take the floor of sum and add 1 to get the number of digits.
+
+ */
     
     public int digitsInFactorial(int N)
     {
