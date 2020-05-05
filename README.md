@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.geeksforgeeks.com/jagrit_07">
+    <a href="https://auth.geeksforgeeks.org/user/jagrit_07/practice/">
         <img height=85 src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png">
     </a>
     <br>Some of my Accepted Java Solutions on GeeksForGeeks Practice Platform
