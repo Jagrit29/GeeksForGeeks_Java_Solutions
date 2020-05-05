@@ -7,8 +7,8 @@
 
 
 ### My GeeksForGeeks Java AC:
-1. [Placement Preparation Course](# Placement Preparation Course)
-   1. [Mathematics](# Mathematics)
+1. [Placement Preparation Course](#algorithms)
+   1. [Mathematics](#Strings)
    2.            
   
 
