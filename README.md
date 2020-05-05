@@ -7,13 +7,13 @@
 
 
 ### My GeeksForGeeks Java AC:
-1. [Placement Preparation Course](#algorithms)
-   1. [Mathematics](#Strings)
+1. [Placement Preparation Course](#)
+   1. [Mathematics](# Mathematics)
    2.            
   
 
- ### Placement Preparation Course
- ####  Mathmematics
+ ### # Placement Preparation Course
+ ####  # Mathematics
 
 | No. |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
 |:---------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
