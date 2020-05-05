@@ -1,23 +1,21 @@
+
 <p align="center">
     <a href="https://www.geeksforgeeks.com/jagrit_07">
         <img height=85 src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png">
     </a>
-    <br>Some of my Accepted Java Solutions on HackerRank Platform
+    <br>Some of my Accepted Java Solutions on GeeksForGeeks Practice Platform
 </p>
 
 
-### My HackerRank Java AC:
-1. [Algorithms](#algorithms)
-   1. [Strings](#Strings)
+### My GeeksForGeeks Java AC:
+1. [Placement Preparation Course](#Placement Preparation Course)
+   1. [Mathematics](# Mathematics)
    2.            
   
 
- ### 1. Algorithms
- ####  Strings
+ ### Placement Preparation Course
+ ####  Mathmematics
 
 | No. |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
 |:---------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1. | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                         |   Easy  | [CaesarCipher.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/CaesarCipher.java)                          |
-| 2. | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/)                                                         |   Easy  | [Gemstones.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/Gemstones.java)                          |
-| 3. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/)                                                         |   Easy  | [AlternatingCharacters.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/AlternatingCharacters.java)                          |
-| 4. | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/)                                                         |   Easy  | [BeautifulBinaryString.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/BeautifulBinaryString.java)                          |
+| 1. | [Smallest Divisible Number](https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1)                                                         |   Basic  | [SmallestDivisibleNumber.java](https://github.com/Jagrit29/GeeksForGeeks_Java_Solutions/blob/master/Placement%20Preparation%20Course/Tracks/Mathematics/SmallestDivisibleNumber.java)                          |                         |
